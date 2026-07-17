@@ -1,5 +1,4 @@
-name: Build App
-
+name: تبدیل کننده به اندروید
 on:
   push:
     branches: [ main, master ]
